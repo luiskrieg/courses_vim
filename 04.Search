@@ -1,0 +1,20 @@
+04. Search and some
+So we need add
+some 
+words 
+here
+so
+you 
+can
+search
+some
+pay
+say
+bay
+they
+some
+some
+
+/word 	= search for pattern
+n 	= search the next ocurrence of pattern
+:%s/earchedword/newword/	= Replace every occurrence of pattern with some... 

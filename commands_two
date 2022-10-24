@@ -1,0 +1,13 @@
+Commands two
+:o	= for insert into a new line (row)
+
+
+Using "o command" for insert into new line
+dd	= for delet or cut from the current cursor position 
+p	= for paste or P 
+$	= for move the cursor to the end of the current line
+A	= for append at the end of the current line 
+u	= undone 
+
+This is for cut
+

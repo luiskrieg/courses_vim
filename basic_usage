@@ -1,0 +1,6 @@
+vi or vim	= run vi or vim and open filename
+:w		= save file (not closing)
+:x 		= save and exit
+:q		= exit if not chages have been made
+:q!		= exit and undine any changes
+:set nu		= display line numbers

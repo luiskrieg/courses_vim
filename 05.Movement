@@ -1,0 +1,8 @@
+05.Movement
+h	= move cursor left one character.
+j	= move cursor down one character.
+k	= move cursor up one character.
+I	= move cursor right one character.
+b	= move to the start of the word. 
+w	= move to the forward of the word.
+e	= Move to the end of the word.

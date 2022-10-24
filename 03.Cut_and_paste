@@ -1,0 +1,14 @@
+03. Cut and paste 
+yy	= yank (copy) a line.
+yw	= yank a word
+this is a copied wordword word word word  word word word wordword word  
+$P	= yank to the end of the line.
+Test yank to the end of the lineline.line 
+
+P	= Paste the clipboard contents.
+P	= Paste the clipboard contents in new line.
+
+p	= Paste the clipboard contents
+
+p	= Paste the clipboard contents
+

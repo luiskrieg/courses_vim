@@ -1,0 +1,7 @@
+Basic commands
+:w filename = save to a new file name
+:w  	    = for write / save
+:q  	    = for quite / exit 
+:wq 	    = for save and quit
+:q! 	    = for save without save
+ 

@@ -1,0 +1,31 @@
+Deleting commands
+x	= delete a single character
+I have thiss line with a double ss to be delete
+D	= Delete the rest of the line
+This is not trash but here lksdalksjaljfddaksj 
+dd	= delete/cut the entire current line
+ndw	= delete the next n words.
+ndd	= delete the next n lines.
+:x,yd	= delete from line x through to line y.
+
+fñdskfñdk
+sñdfkñsdkfñksdñf
+sdñfkñdskfñksd
+ñsdlkfñdskñfksdñ
+ñsdlkfñdskñfksdñ
+ñsdlkfñdskñfksdñ
+ñsdlkfñdskñfksdñ
+
+
+
+ñsdlkfñdskñfksdñ
+
+
+
+O	= Insert a new line before the current line.
+o	= Insert a new line after the current line.
+P	= Paste to the current line.
+p	= paste to the next line.
+k	= move up to each row where the cursor is.
+j	= move down to each row where the cursor is.
+

@@ -1,0 +1,9 @@
+Insert mode
+:i	= insert at the cursor.
+:a	= insert after the cursor.
+:I	= insert before the current line.
+:A	= insert after the current line.
+:o	= insert a new line after the current line.
+:O 	= insert a new line before the current line.
+:C	= overwrite the whold current line.
+ESC	= exit insert mode
