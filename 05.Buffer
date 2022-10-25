@@ -1,0 +1,5 @@
+05. Buffer 
+You can open several files using ":e file_name"
+you can see which files do you have open using ":ls"
+you can navigate between files ":bp" buffer previous or ":bn" for buffer next
+you can close one file on the buffer using ":bd" buffer delete

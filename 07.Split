@@ -1,0 +1,7 @@
+07. Split screen using VIM
+
+:sp - split 
+:vsp - virtual split the same file
+:vsp filename - will display the same 
+control + w - help to navigate between files
+control + w + h,j,k,l, or arrow left, up, right, down

@@ -1,0 +1,6 @@
+06. Tabs
+:tabedit filename06. - Open new file on new tab
+:tabp - for move to the previous tab
+:tabn - for move to the next tab
+:tabe filename - you can edit other file
+:tabnew filename - open new file into new tab

@@ -1,0 +1,7 @@
+08. Workspaces or Sessions
+
+:vim -p file1 file2 file3 = open 3 files in 3 tabs
+:mksession session_name.vim = save the session 
+:qall = quit all, 
+:wqall = save and quit all
+:vim -s session_name 
